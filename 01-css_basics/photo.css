@@ -1,0 +1,16 @@
+li {
+	list-style: none;
+	padding: 0 5px;	
+	display: inline-block;
+}
+
+li, a {
+	text-decoration: none;
+	font-size: 25px;
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}

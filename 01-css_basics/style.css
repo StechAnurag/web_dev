@@ -1,0 +1,32 @@
+/*
+	Selector {
+		property : value;
+	}
+*/
+
+body {
+	background-image: url('background.jpg');
+	background-size: cover;
+}
+
+h2 {
+	color: #7887AB;
+	border: 2px solid #4F628E;
+	text-align: center;
+	cursor: pointer;
+}
+
+p {
+	color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	padding: 5px;
+	font-size: 25px;
+	list-style: none;
+	display: inline-block;
+}
